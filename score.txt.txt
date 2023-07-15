@@ -1,0 +1,5 @@
+Usuario1: 10
+Usuario2: 15
+Usuario3: 8
+Usuario4: 12
+Usuario5: 20
